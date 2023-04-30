@@ -1,0 +1,1 @@
+# arduino_lm35_sicaklik_sensoru_kullanimi
